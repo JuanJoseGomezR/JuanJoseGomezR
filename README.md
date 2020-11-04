@@ -17,7 +17,7 @@ I'm Juan Gómez a Software Developer. I Spend most of time coding projects, lear
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![C Badge](https://img.shields.io/badge/-C-61DBFB?style=for-the-badge&labelColor=black&logo=c&logoColor=61DBFB)](#) [![Python Badge](https://img.shields.io/badge/-Python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=3C873A)](#) [![C Badge](https://img.shields.io/badge/-CS-61DBFB?style=for-the-badge&labelColor=black&logo=C#&logoColor=61DBFB)](#) [![C Badge](https://img.shields.io/badge/-HTML-61DBFB?style=for-the-badge&labelColor=black&logo=html&logoColor=61DBFB)](#)
+[![C Badge](https://img.shields.io/badge/-C-61DBFB?style=for-the-badge&labelColor=black&logo=c&logoColor=61DBFB)](#) [![Python Badge](https://img.shields.io/badge/-Python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=3C873A)](#) [![C Badge](https://img.shields.io/badge/-CS-61DBFB?style=for-the-badge&labelColor=black&logo=C#&logoColor=6B5E62)](#) [![C Badge](https://img.shields.io/badge/-HTML-61DBFB?style=for-the-badge&labelColor=black&logo=html&logoColor=D5CAD6)](#)
 <br />
 <br />
 #### Business
