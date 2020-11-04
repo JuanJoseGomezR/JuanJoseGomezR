@@ -25,28 +25,6 @@ I'm Juan Gómez a Software Developer. I Spend most of time coding projects, lear
 - :paperclip: https://www.linkedin.com/in/juan-josé-gómez-1b8b801a0/
 - :email: juangomez0149@gmail.com
 
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
-
-<details>
-  More stuff about me
-
-<br >
-
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
-
 #### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=JuanJoseGomezR&count_private=true&theme=tokyonight&hide=contribs,prs)
