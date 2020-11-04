@@ -17,7 +17,7 @@ I'm Juan Gómez a Software Developer. I Spend most of time coding projects, lear
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-C-61DBFB?style=for-the-badge&labelColor=black&logo=c&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=3C873A)](#)
+[![C Badge](https://img.shields.io/badge/-C-61DBFB?style=for-the-badge&labelColor=black&logo=c&logoColor=61DBFB)](#) [![Python Badge](https://img.shields.io/badge/-Python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=3C873A)](#)
 <br />
 <br />
 #### Business
@@ -26,6 +26,6 @@ I'm Juan Gómez a Software Developer. I Spend most of time coding projects, lear
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=JuanJoseGomezR&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Juan's github stats](https://github-readme-stats.vercel.app/api?username=JuanJoseGomezR&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
