@@ -23,7 +23,7 @@ I'm Juan Gómez a Software Developer. I Spend most of time coding projects, lear
 
 #### Business
 - :paperclip: https://www.linkedin.com/in/juan-josé-gómez-1b8b801a0/
-- :email: ipenywis@gmail.com
+- :email: juangomez0149@gmail.com
 
 
 #### Profile Visits 
