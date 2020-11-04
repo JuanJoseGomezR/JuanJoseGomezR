@@ -17,7 +17,7 @@ I'm Juan Gómez a Software Developer. I Spend most of time coding projects, lear
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-C-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Python-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![React Badge](https://img.shields.io/badge/-C-61DBFB?style=for-the-badge&labelColor=black&logo=c&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=3C873A)](#)
 <br />
 <br />
 #### Business
