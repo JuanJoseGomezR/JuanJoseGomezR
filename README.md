@@ -11,7 +11,6 @@ I'm Juan Gómez a Software Developer. I Spend most of time coding projects, lear
 - 🔭 I’m not currently working.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: juangomez0149@gmail.com.
-- ⚡ Fun fact: I play videogames.
 
 #### Top Technologies
 
